@@ -1,8 +1,3 @@
-'''a=[[1,2][3,4]]
-for i in range(0,2):
-    for j in range(0,2):
-        a[j][i]=a[i][j]
-        print(a[i][j])'''
 
 n=int(input("Enter row Size of the matrix:"))
 m=int(input("Enter col size of the matrix:"))
